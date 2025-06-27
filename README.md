@@ -6,9 +6,8 @@ This app performs basic arithmetic operations and is optimized for Android phone
 
 ## 📸 Screenshots
 
-<p float="left">
-  <img src="./assets/C:\Captures\Screenshots\Screenshot 2025-06-27 125043.png" width="200" />
-</p>
+![Screenshot 2025-06-27 125043](https://github.com/user-attachments/assets/e704050e-2692-464c-bd83-9e78b4e253f7)
+)
 
 
 ## ✨ Features
