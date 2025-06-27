@@ -23,7 +23,7 @@ This app performs basic arithmetic operations and is optimized for Android phone
 
 Click the link below to install on your Android phone:
 
-[📥 Download APK from Google Drive]([https://drive.google.com/your-apk-share-link](https://drive.google.com/file/d/1fNuY-70lBc-j4gWQcUkuta4rrMtUq6pS/view?usp=sharing))
+[📥 Download APK from Google Drive](https://drive.google.com/file/d/1fNuY-70lBc-j4gWQcUkuta4rrMtUq6pS/view?usp=sharing)
 
 > Open on Android → Download → Allow unknown sources → Install
 
