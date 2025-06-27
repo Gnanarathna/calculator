@@ -1,6 +1,6 @@
 # 🔢 Simple Calculator App
 
-A modern and user-friendly calculator app built using **React Native**, **Expo**, and **TypeScript**.  
+A modern and user-friendly calculator app built using **React Native**, **Expo** and **TypeScript**.  
 This app performs basic arithmetic operations and is optimized for Android phones. Built from scratch using the `index.tsx` entry file.
 
 
@@ -50,8 +50,8 @@ Click the link below to install on your Android phone:
 ## 😊 Final Note
 
 I'm really happy to share this simple calculator app with you.  
-It was a fun and educational project, and I hope you find it useful or inspiring! 💡📱  
-Feel free to explore, use, or improve it — and thanks for checking it out! 🙌
+It was a fun and educational project and I hope you find it useful or inspiring! 💡📱  
+Feel free to explore, use or improve it — and thanks for checking it out! 🙌
 
 ## 🎊 That's All!
 
