@@ -47,11 +47,28 @@ Click the link below to install on your Android phone:
 - 🎓 NSBM Green University
 - 💬 Passionate about mobile and IoT development
 
+
+## 🚀 Getting Started
+
+# 1. Clone the repository
+git clone https://github.com/Gnanarathna/calculator.git
+
+# 2. Move into the project directory
+cd simple-calculator
+
+# 3. Install the dependencies
+npm install
+
+# 4. Start the Expo development server
+npx expo start
+
+
 ## 😊 Final Note
 
 I'm really happy to share this simple calculator app with you.  
 It was a fun and educational project and I hope you find it useful or inspiring! 💡📱  
 Feel free to explore, use or improve it — and thanks for checking it out! 🙌
+
 
 ## 🎊 That's All!
 
