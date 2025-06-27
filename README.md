@@ -54,7 +54,7 @@ Click the link below to install on your Android phone:
 git clone https://github.com/Gnanarathna/calculator.git
 
 # 2. Move into the project directory
-cd simple-calculator
+cd calculator
 
 # 3. Install the dependencies
 npm install
