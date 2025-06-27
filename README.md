@@ -7,7 +7,7 @@ This app performs basic arithmetic operations and is optimized for Android phone
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="./assets/Screenshot 2025-06-27 125043.png" width="200" />
+  <img src="./assets/C:\Captures\Screenshots\Screenshot 2025-06-27 125043.png" width="200" />
 </p>
 
 
@@ -25,7 +25,7 @@ This app performs basic arithmetic operations and is optimized for Android phone
 
 Click the link below to install on your Android phone:
 
-[📥 Download APK](https://expo.dev/accounts/hasitha333/projects/simple-calculator/builds/f0ededf0-d6ef-4b8e-83a9-890ed87ebe68)
+[📥 Download APK from Google Drive]([https://drive.google.com/your-apk-share-link](https://drive.google.com/file/d/1fNuY-70lBc-j4gWQcUkuta4rrMtUq6pS/view?usp=sharing))
 
 > Open on Android → Download → Allow unknown sources → Install
 
