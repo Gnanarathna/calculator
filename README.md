@@ -1,50 +1,64 @@
-# Welcome to your Expo app 👋
+# 🔢 Simple Calculator App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern and user-friendly calculator app built using **React Native**, **Expo**, and **TypeScript**.  
+This app performs basic arithmetic operations and is optimized for Android phones. Built from scratch using the `index.tsx` entry file.
 
-## Get started
 
-1. Install dependencies
+## 📸 Screenshots
 
-   ```bash
-   npm install
-   ```
+<p float="left">
+  <img src="./assets/Screenshot 2025-06-27 125043.png" width="200" />
+</p>
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+## ✨ Features
 
-In the output, you'll find options to open the app in a
+- ✅ Basic math operations: Add, Subtract, Multiply, Divide
+- 🖱️ Touchable colorful buttons
+- 🧠 State managed using React Hooks (`useState`)
+- ⚡ Fast, lightweight and responsive
+- 📱 Built for Android phones (APK available)
+- 🎨 Clean UI designed with `StyleSheet` and components
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📲 Download the APK
 
-## Get a fresh project
+Click the link below to install on your Android phone:
 
-When you're ready, run:
+[📥 Download APK](https://expo.dev/accounts/hasitha333/projects/simple-calculator/builds/f0ededf0-d6ef-4b8e-83a9-890ed87ebe68)
 
-```bash
-npm run reset-project
-```
+> Open on Android → Download → Allow unknown sources → Install
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+## 🧰 Technologies Used
 
-To learn more about developing your project with Expo, look at the following resources:
+| Technology             | Purpose                                          |
+|------------------------|--------------------------------------------------|
+| React Native           | Cross-platform app framework                     |
+| Expo                   | Simplified app development/building              |
+| EAS Build              | APK generation for Android                       |
+| TypeScript             | Main file: `index.tsx`, ensures type safety      |
+| React Hooks            | For managing user input and calculator logic     |
+| VS Code                | Code editor                                      |
+| Git & GitHub           | Version control and project hosting              |
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+## 🧑‍💻 Author
 
-Join our community of developers creating universal apps.
+- 👨‍💻 **Hasitha Anjana Gnanarathna**
+- 🎓 NSBM Green University
+- 💬 Passionate about mobile and IoT development
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 😊 Final Note
+
+I'm really happy to share this simple calculator app with you.  
+It was a fun and educational project, and I hope you find it useful or inspiring! 💡📱  
+Feel free to explore, use, or improve it — and thanks for checking it out! 🙌
+
+## 🎊 That's All!
+
+Had a lot of fun building this app — hope you enjoy using it just as much! 😄  
+Happy calculating! 🧮✨
+---
+Thanks for checking out my app! 😊  
+Made with love and curiosity. 💙
